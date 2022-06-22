@@ -1,13 +1,10 @@
-{
-    "activation": [
-{
-	"key": "123456789",
-	"serialKey": "123456",
-	"WinId": "F5F86EAC-8D86-4792-8053-588-B1C3F41C6",
 
- }
-],
-  "SlowMoControl": {
-    "key": "typicode"
-  }
+{
+  
+	"key": "123456789",
+	"serialKey": 123456,
+	"uniqueWinId": "F5F86EAC - 8 D86 - 4792 - 8053 - 588 B1C3F41C6",
+	"booleano": true,
+	"nulo": null
+
 }
